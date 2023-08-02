@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayur11803
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning about Machine Learning.
   
 
 <!---
