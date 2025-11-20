@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I am Mayur Patil 👋
 
 <!--
-**mayur11803/mayur11803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Enthusiast | Data Science Learner | Python Developer
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+• I’m passionate about building smart applications using AI, ML, and Data Science.
+• I love exploring data, creating meaningful tools, and learning new technologies every day.
+
+🔥 Skills
+
+• Languages: Python, SQL
+• AI/ML: Machine Learning, Deep Learning, Generative AI, LangChain
+• Data: Data Analysis, Algorithms, Visualization
+
+🌱 Currently Learning
+
+• GenAI architectures
+• Intelligent agent automation
+• Data science workflows
+
+📫 Connect With Me
+
+ • LinkedIn
+ • GitHub
+ • Twitter
 -->
