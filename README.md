@@ -1,41 +1,64 @@
-👋 Hey, I’m Mayur Patil
-🚀 Engineer | AIML Enthusiast | Curious Builder
+🌟 Hi, I am Mayur Patil
+Engineer • AIML Enthusiast • Curious Builder
+<p align="center"> <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/src/images/github-contribution-grid-snake.svg" alt="snake"> </p>
+🚀 About Me
 
-I’m someone who loves turning ideas into working systems—whether it’s automating insights, building intelligent agents, or experimenting with new ML workflows.
-I enjoy projects that solve real problems, teach me something new, and push me out of my comfort zone.
+I'm an engineer who enjoys building intelligent systems, experimenting with AI workflows, and exploring how automation can simplify real-world tasks.
+I love working on ideas that solve real problems, challenge my thinking, and help me grow a little every day.
 
-🧠 Skills & Tools I Work With
+🧠 Skills & Tools
 Languages
 
-Python · SQL
+Expertise in writing clean, modular Python code for AI, data processing, automation, and backend scripts.
 
-AI / ML
+Strong understanding of database queries, joins, aggregations, and working with structured datasets.
 
-Machine Learning · Generative AI · LangChain
+AI & Machine Learning
+
+   -Experience with supervised/unsupervised ML models, training pipelines, feature engineering, and evaluation metrics.
+
+  - Hands-on with LLMs, prompting, embeddings, vector DBs, and building intelligent, autonomous agent workflows.
+
+  - Skilled in chaining LLM components, building tools, retrieval pipelines, and multi-agent systems.
 
 Data Science
 
-Data Analysis · Dataset Engineering · Algorithm Design
+  - Able to extract insights from raw data, perform EDA, visualize patterns, and build meaningful interpretations.
 
-🌱 What I’m Improving Right Now
+  - Designing custom logic, optimization approaches, and AI-driven decision-making algorithms.
 
-Building stronger AI agent systems
+Tools & Technologies
 
-Experimenting with new generative model architectures
+  - Version control, branching strategies, and collaborative workflows.
 
-Exploring smarter ways to automate research and workflows
+  - Primary environment for coding, debugging, and project management.
 
-🌍 Connect With Me
+  - For notebooks, experimentation, model testing, and visualization.
 
-LinkedIn · www.linkedin.com/in/mayur-patil-7b64b3249 · [Twitter](https://x.com/Mayur110803?t=Bnk861MvzFw3u1fLB5nM6A&s=08)
-(Share your links if you want me to place them neatly)
+🌱 Currently Working On
 
-🎧 A Bit More About Me
+  - Making smarter AI agent architectures
 
-I enjoy travelling and long late-night drives
+  - Exploring new generative AI model patterns
 
-Music + singing = instant mood lift
+  - Automating workflows for research and data projects
 
-I'm constantly exploring—new tech, new ideas, new places
+🎧 Beyond Tech
 
-I believe growth comes from trying things before you feel “ready”
+  - I enjoy travelling and long late-night drives
+
+  - Singing is my escape
+
+  - Always exploring new ideas, tools, and places
+
+Believe in learning by doing — not waiting
+
+📊 GitHub Insights
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=react" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=react" /> </p>
+🌍 Find Me Online
+
+  - www.linkedin.com/in/mayur-patil-7b64b3249
+  - https://x.com/Mayur110803?t=Bnk861MvzFw3u1fLB5nM6A&s=08
+
+
+
