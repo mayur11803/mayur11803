@@ -1,6 +1,6 @@
 🌟 Hi, I am Mayur Patil
 Engineer • AIML Enthusiast • Curious Builder
-<p align="center"> <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/src/images/github-contribution-grid-snake.svg" alt="snake"> </p>
+<p align="center"> <img src="[https://github.com/ryo-ma/github-profile-trophy/blob/master/src/images/github-contribution-grid-snake.svg](https://github.com/mayur11803/mayur11803/blob/main/1721298098412.jpg)" alt="snake"> </p>
 🚀 About Me
 
 I'm an engineer who enjoys building intelligent systems, experimenting with AI workflows, and exploring how automation can simplify real-world tasks.
