@@ -53,8 +53,6 @@ Tools & Technologies
 
 Believe in learning by doing — not waiting
 
-📊 GitHub Insights
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=react" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=react" /> </p>
 🌍 Find Me Online
 
   - www.linkedin.com/in/mayur-patil-7b64b3249
